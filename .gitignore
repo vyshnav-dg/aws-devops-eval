@@ -1,2 +1,4 @@
 *.pem
 eval_accessKeys.csv
+*.json
+*.zip
